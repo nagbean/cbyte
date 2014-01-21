@@ -1,0 +1,1 @@
+This repository includes my solutions for challenges on coderbyte.com
